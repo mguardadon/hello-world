@@ -3,6 +3,6 @@ My first project
 
 Hello World
 
-I like programming and also like slavadoran pupusas
+I like programming and also like salvadoran pupusas
 
 
